@@ -41,8 +41,8 @@
 - Exporting the contents does not also maintain the order of the columns if they were previously sorted.
 
 - The order of the fields is different when adding an entry and when editing an entry
-  Add: Name, Phone number, Address, Email, Comments
-  Edit: Name, Address, Phone number, Email, Comments
+  - Add: Name, Phone number, Address, Email, Comments
+  - Edit: Name, Address, Phone number, Email, Comments
 
 - Edit - Can remove the phone number even if it is marked as mandatory
 
