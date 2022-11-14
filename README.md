@@ -4,14 +4,14 @@
 - Run `playwright install`
 
 # How to run tests
-Run tests using headless browser (default) : `python -m pytest -v tests`
-Run tests with headed browser: `python -m pytest -v --headed tests`
-Run tests with specific browser: `python -m pytest -v --browser firefox --headed`
+- Run tests using headless browser (default) : `python -m pytest -v tests`
+- Run tests with headed browser: `python -m pytest -v --headed tests`
+- Run tests with specific browser: `python -m pytest -v --browser firefox --headed`
  (can be `chromium`, `firefox`, or `webkit`)
 
-For additional information, please refer to those pages:
-- `https://playwright.dev/python/docs/intro`
-- `https://playwright.dev/python/docs/test-runners`.
+- For additional information, please refer to those pages:
+  - `https://playwright.dev/python/docs/intro`
+  - `https://playwright.dev/python/docs/test-runners`.
 
 # Bugs:
 - Edit - application crashes on trying to edit when no entry is selected:
