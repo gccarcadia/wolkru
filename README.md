@@ -32,7 +32,7 @@
 
 - File - Export > there is no confirmation or prompt where to save the exported contacts (the contacts are saved in the working directory in the file "Exported_contacts.txt", but the file is overwritten each time)
 
-- I would expect the entries in the address book should be sortable, but they are not
+- The entries in the address book should be sortable by columns
 
 - If there is an export feature, there has bo be also an import feature
 
@@ -46,8 +46,8 @@
 
 - Edit - Can remove the phone number even if it is marked as mandatory
 
-- Edit - Internal error when trying to add a duplicate entry - same name an phone number
+- Edit - Internal error when trying to add a duplicate entry with the same name and same phone number
 
-- Phone number length is limited to only 12 digits - there are phone numbers with more than 12 digits
+- Phone number length is limited to only 12 digits but there are phone numbers with more than 12 digits
 
 - Can add spaces after the phone number and the spaces are also exported
