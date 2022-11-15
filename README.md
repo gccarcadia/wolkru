@@ -13,7 +13,7 @@
   - `https://playwright.dev/python/docs/intro`
   - `https://playwright.dev/python/docs/test-runners`.
 
-# Bugs:
+# Bugs in application from https://github.com/OlenaPletnova/Manual-test-exercise/releases/tag/excercise:
 - Edit - application crashes on trying to edit when no entry is selected:
 
   From Windows event viewer:
