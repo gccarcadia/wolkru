@@ -10,4 +10,4 @@ def test_ui_add_note(page: Page):
     page.keyboard.press('Enter')
 
     # Check if the note has been added
-    assert page.locator(LABEL_FIRST_NOTE).inner_text() == 'td.text_first_note'
+    assert page.locator(LABEL_FIRST_NOTE).inner_text() == td.text_first_note
