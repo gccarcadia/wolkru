@@ -4,6 +4,7 @@
 - Run `playwright install`
 
 # How to run tests
+- Recommended - run tests with headed browser and slowmo option: `python -m pytest -v --headed tests --slowmo 500`
 - Run tests using headless browser (default) : `python -m pytest -v tests`
 - Run tests with headed browser: `python -m pytest -v --headed tests`
 - Run tests with specific browser: `python -m pytest -v --browser firefox --headed`
