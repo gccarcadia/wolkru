@@ -34,20 +34,20 @@
 
 - The entries in the address book should be sortable by columns
 
-- If there is an export feature, there has bo be also an import feature
+- It would be nice to have an import feature, just like there is the export feature
 
-- You can completely hide all of the columns by resizing them and there is no indication that there was a column.
+- You can completely hide all of the columns by resizing them and there is no indication that there was a column
 
-- Exporting the contents does not also maintain the order of the columns if they were previously sorted.
+- Exporting the contents does not maintain the order of the columns if the column order was previously changed
 
 - The order of the fields is different when adding an entry and when editing an entry
   - Add: Name, Phone number, Address, Email, Comments
   - Edit: Name, Address, Phone number, Email, Comments
 
-- Edit - Can remove the phone number even if it is marked as mandatory
+- Edit - An entry can be saved without the phone number, even if the phone number is marked as mandatory
 
 - Edit - Internal error when trying to add a duplicate entry with the same name and same phone number
 
-- Phone number length is limited to only 12 digits but there are phone numbers with more than 12 digits
+- Phone number length is limited to only 12 digits, but there are international phone numbers with more than 12 digits
 
 - Can add spaces after the phone number and the spaces are also exported
